@@ -1,1 +1,1 @@
-print("MYSIRG")
+print('''"MYSIRG"''')
